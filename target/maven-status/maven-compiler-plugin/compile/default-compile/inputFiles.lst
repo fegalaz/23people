@@ -1,0 +1,11 @@
+C:\Users\Felipe Galaz\Desktop\OAuth-service-Springboot-master\src\main\java\com\auth\entity\AuthRole.java
+C:\Users\Felipe Galaz\Desktop\OAuth-service-Springboot-master\src\main\java\com\auth\config\AuthorizationServerConfig.java
+C:\Users\Felipe Galaz\Desktop\OAuth-service-Springboot-master\src\main\java\com\auth\entity\AuthUser.java
+C:\Users\Felipe Galaz\Desktop\OAuth-service-Springboot-master\src\main\java\com\auth\service\AuthUserService.java
+C:\Users\Felipe Galaz\Desktop\OAuth-service-Springboot-master\src\main\java\com\auth\BootLauncher.java
+C:\Users\Felipe Galaz\Desktop\OAuth-service-Springboot-master\src\main\java\com\auth\repository\UserRoleRepo.java
+C:\Users\Felipe Galaz\Desktop\OAuth-service-Springboot-master\src\main\java\com\auth\service\UserDetailsServiceImpl.java
+C:\Users\Felipe Galaz\Desktop\OAuth-service-Springboot-master\src\main\java\com\auth\controller\UserController.java
+C:\Users\Felipe Galaz\Desktop\OAuth-service-Springboot-master\src\main\java\com\auth\controller\dto\UserDto.java
+C:\Users\Felipe Galaz\Desktop\OAuth-service-Springboot-master\src\main\java\com\auth\config\BasicSecurityConfig.java
+C:\Users\Felipe Galaz\Desktop\OAuth-service-Springboot-master\src\main\java\com\auth\repository\UserRepository.java
